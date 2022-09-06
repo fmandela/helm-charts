@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  airbyte:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2022-09-06T11:58:14.434409+03:00"
+    description: A Helm chart for Kubernetes
+    digest: 7719ee73bdb11ff4cf0941ab202ce758035cea7ab26ff4ac17730d7ef32cde27
+    name: airbyte
+    type: application
+    urls:
+    - https://github.io/fmandela/helm-charts/airbyte-0.1.0.tgz
+    version: 0.1.0
+generated: "2022-09-06T11:58:14.433833+03:00"
